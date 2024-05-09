@@ -1,0 +1,4 @@
+[2024-05-09 07:35:19,900] ERROR Validation error: topics - Must configure one of topics or topics.regex
+topics.regex - Must configure one of topics or topics.regex (io.confluent.ksql.cli.console.Console:349)
+[2024-05-09 07:35:38,028] ERROR Validation error: topics - Must configure one of topics or topics.regex
+topics.regex - Must configure one of topics or topics.regex (io.confluent.ksql.cli.console.Console:349)
